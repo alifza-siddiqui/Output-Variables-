@@ -1,0 +1,12 @@
+How much space does following data types take?
+int -> 4 bytes
+bool -> 2 bytes 
+float -> 4 bytes 
+
+
+How many of these can be a variable name?
+01PWskills -> not a variable name because it starts with numerical values
+_FLOAT -> it can be a variable name because it starts with underscore
+int -> not a variable name beacuse it is a predefined words
+FLOAT -> it can be a variable name because it is upper case float 
+You will succeed -> not a variable name because spaces are not allowed within a variable name
